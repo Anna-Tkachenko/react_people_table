@@ -2,3 +2,13 @@
 iframe {
   display: none;
 }
+
+.icon {
+  margin-left: 12px;
+
+  &:hover {
+    border-radius: 50%;
+    background-color: aquamarine;
+    cursor: pointer;
+  }
+}
